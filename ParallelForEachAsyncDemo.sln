@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForEachAsyncDemo", "ParallelForEachAsyncDemo\ParallelForEachAsyncDemo.csproj", "{66E2C1AE-1313-4578-86FF-10C9763FB210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66E2C1AE-1313-4578-86FF-10C9763FB210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E2C1AE-1313-4578-86FF-10C9763FB210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E2C1AE-1313-4578-86FF-10C9763FB210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E2C1AE-1313-4578-86FF-10C9763FB210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F06196-4B32-441F-894B-75657138111F}
+	EndGlobalSection
+EndGlobal
